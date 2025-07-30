@@ -74,10 +74,11 @@ layout: default
   </div>
 
   <!-- ✅ Twitter埋め込み -->
-  <blockquote class="twitter-tweet">
-    <a href="https://twitter.com/NITRo85594165/status/20"></a>
-  </blockquote>
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <a class="twitter-timeline" 
+    href="https://twitter.com/NITRo85594165?ref_src=twsrc%5Etfw">
+    Tweets by NITRo85594165
+  </a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 
