@@ -35,31 +35,36 @@ img: ":../default/PXL_20240826_104146904.webp"
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-## About Us
+## Contact Us
 
+名古屋工業大学の佐藤研究室に所属する学生によって運営されています．
+[RoboCup Rescue Robot League](https://rrl.robocup.org/),
+[レスキュー実機リーグ](https://sites.google.com/site/robocupjorescuerobotleague/)に参加中．
 
-Team NITRo is a rescue robot development team operated by students from the Sato Laboratory at Nagoya Institute of Technology.
+他チームの皆さんとの，情報共有や共同での開発に大変興味があります．
+具体的には，
 
-The team is currently developing a crawler-type robot named IMAX2, and participates in competitions such as RoboCup and the World Robot Summit.
+- ROS/ROS2での共通のライブラリやツールの使用
+- 共通のセンサ，オープンソースを使用した地図精度向上，RoboCupの新ルール対応のためのプログラム開発(点群への色付け，熱源マッピング)
+- **HAZMAT/物体検出/Auto DexterityのベースとなるYOLO学習データの共同開発**
+  を考えています！
 
-## Main Objectives
-- Navigating rough terrain, manipulator-based operations, remote control, mapping, autonomous navigation, as well as image recognition and image processing are the main objectives.
-- The team is advancing both hardware fabrication from CAD design and software development using ROS (C++/Python).
+スポンサーシップやコラボレーションのご提案もお待ちしております．
+興味のある方は，メールもしくはSNSからご連絡ください．
 
-## Achievements
-- **RoboCup 2024**: Participated in the RoboCup Rescue Robot League with IMAX2, achieving a commendable performance.
-- **RoboCup 2025**: Scheduled to participate in the RoboCup Rescue Robot
+## Robot Gallery
 
-## Robots
 - **IMAX2**: A crawler-type rescue robot designed for navigating complex environments and performing rescue operations.
 - **IMAX**: A large size crawler-type rescue robot, which was the predecessor of IMAX2 and participated in the RoboCup 2024 competition.
-
 - **KAMUY**: Legged Robot
 
 ## OnGoing Projects
-- **WRS 2025** : Participating in the World Robot Summit 2025 with IMAX2, focusing on advanced rescue operations.
+
+- **WRS 2025**
+- **RoboCup 2026 at Incheon**
 
 ## Team Members
+
 {% include custom/about-members.html %}
 
 <!-- - **Kotaro Kanazawa**  
@@ -70,4 +75,3 @@ The team is currently developing a crawler-type robot named IMAX2, and participa
 
     - [Twitter @clp13214](https://x.com/clp13214)
     - [GitHub kotarokanazawa](https://github.com/kotarokanazawa) -->
-
