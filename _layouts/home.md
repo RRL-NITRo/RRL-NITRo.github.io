@@ -61,24 +61,25 @@ layout: default
 </div>
 
 <div class="multipurpose-container media-embed-container">
-  <h2>メディア</h2>
+  <h2>YouTube Channel</h2>
 
   <!-- ✅ YouTube埋め込み -->
   <div class="video-container">
     <iframe width="560" height="315"
-      src="https://youtu.be/HeNR9uJ7k3c?si=9tM4-p9p9t_Wmrf2"
+      src="https://www.youtube.com/embed/HeNR9uJ7k3c"
       title="YouTube video player" frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen>
     </iframe>
   </div>
 
+  <h2>X</h2>
   <!-- ✅ Twitter埋め込み -->
   <a class="twitter-timeline" 
     href="https://twitter.com/NITRo85594165?ref_src=twsrc%5Etfw">
     Tweets by NITRo85594165
   </a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 
