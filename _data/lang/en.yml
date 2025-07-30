@@ -167,6 +167,13 @@ projects:
   read_more_text: Read more
   read_less_text: Read less
 
+# for members layout
+members:
+  title: Members
+  button_name: Members
+  read_more_text: Read more
+  read_less_text: Read less
+
 # for privacy-policy layout
 privacy-policy:
   title: &privacy_policy_title Privacy policy
