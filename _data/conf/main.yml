@@ -187,8 +187,6 @@ side_nav_close_limit: 767px
 side_and_top_nav_buttons:
   - home:
     icon: "fa fa-home"
-  - about:
-    icon: "fa fa-user-o"
   - post-list:
     icon: "fa fa-pencil-square-o"
   - archives:
@@ -197,6 +195,8 @@ side_and_top_nav_buttons:
     icon: "fa fa-cog"
   - links:
     icon: "fa fa-link"
+  - about:
+    icon: "fa fa-user-o"
 
 
 # side nav toggle feature
