@@ -1,31 +1,51 @@
+---
+layout: member
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_member
+
+# publish date (used for seo)
+# if not specified, site.time will be used.
+#date: 2022-03-03 12:32:00 +0000
+
+# for override items in _data/lang/[language].yml
+#title: My title
+#button_name: "My button"
+# for override side_and_top_nav_buttons in _data/conf/main.yml
+#icon: "fa fa-bath"
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-03-03 12:32:00 +0000
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
+# image viewer can be enabled or disabled for all posts using the "image_viewer_posts: true" setting in _data/conf/main.yml.
+#image_viewer_on: true
+# please use the "image_lazy_loader_on" below to enable image lazy loader for individual pages or posts (_posts/ or [language]/_posts folders).
+# image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+
 # メンバー紹介
 
-以下はRRL-NITRoのメンバー一覧です。写真と各SNSリンクを掲載しています。
+Member
 
 ---
 
-## 佐藤 太郎
-![佐藤太郎の写真](images/sato_taro.jpg)
+### Kotaro Kanazawa
+![kotarokanazawa](images/sato_taro.jpg)
+Team Leader and Developer
+
+Interest: Motion Planning for Crawler Robot, Autonomous Navigation, Teleoperation, Virtual Reality, and Localization and Mapping.
+
 - Twitter: [@sato_taro](https://twitter.com/sato_taro)
 - GitHub: [sato-taro](https://github.com/sato-taro)
-- Instagram: [sato.taro](https://instagram.com/sato.taro)
 
----
 
-## 鈴木 花子
-![鈴木花子の写真](images/suzuki_hanako.jpg)
-- Twitter: [@hanako_suzuki](https://twitter.com/hanako_suzuki)
-- GitHub: [hanako-suzuki](https://github.com/hanako-suzuki)
-- Instagram: [hanako.suzuki](https://instagram.com/hanako.suzuki)
-
----
-
-## 高橋 一郎
-![高橋一郎の写真](images/takahashi_ichiro.jpg)
-- Twitter: [@ichiro_takahashi](https://twitter.com/ichiro_takahashi)
-- GitHub: [ichiro-takahashi](https://github.com/ichiro-takahashi)
-- Instagram: [ichiro.takahashi](https://instagram.com/ichiro.takahashi)
-
----
-
-※写真は `images/` フォルダに配置してください。SNSリンクは各自のアカウントに合わせて修正してください。
