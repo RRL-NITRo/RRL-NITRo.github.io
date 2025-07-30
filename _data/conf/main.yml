@@ -187,6 +187,8 @@ side_nav_close_limit: 767px
 side_and_top_nav_buttons:
   - home:
     icon: "fa fa-home"
+  - about:
+    icon: "fa fa-user-o"
   - post-list:
     icon: "fa fa-pencil-square-o"
   - archives:
@@ -195,8 +197,7 @@ side_and_top_nav_buttons:
     icon: "fa fa-cog"
   - links:
     icon: "fa fa-link"
-  - about:
-    icon: "fa fa-user-o"
+
 
 # side nav toggle feature
 # when side nav is not visible and if you click top nav toggle button, side nav slides from left to right (disables top nav buttons)
@@ -213,7 +214,7 @@ top_nav_brand_text_enable: true
 
 # set profile image
 # comment to disable the profile image
-side_nav_profile_img_path: /assets/img/default/imax_image.png
+side_nav_profile_img_path: /assets/img/default/nitropic.png
 
 # this adds hover effect to bottom buttons
 side_nav_bottom_buttons_hover_effect: "hover-effect"

@@ -4,7 +4,7 @@ layout: about
 lng_pair: id_about
 
 # image for page specific usage
-img: ":about.jpg"
+img: ":./default/nitropic.png"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -57,7 +57,7 @@ The team is currently developing a crawler-type robot named IMAX2, and participa
 - **KAMUY**: Legged Robot
 
 ## OnGoing Projects
-- **WRS 2025**
+- **WRS 2025** : Participating in the World Robot Summit 2025 with IMAX2, focusing on advanced rescue operations.
 <!-- {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 {%- include util/auto-content-generator.liquid -%}
