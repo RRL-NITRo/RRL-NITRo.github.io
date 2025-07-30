@@ -175,7 +175,7 @@ privacy-policy:
 constants:
   greetings: Hello
   welcome: Welcome
-  sample: _data/lang/en.ymlのサンプルテキスト
+  sample: "Team NITRo is a rescue robot development team operated by students from the Sato Laboratory at Nagoya Institute of Technology."
 
 # for contact form
 contact_form:
