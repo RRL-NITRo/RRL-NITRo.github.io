@@ -5,7 +5,7 @@
 brand: "Team NITRo"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+brand_sub_text: "Nagoya Insitute of Technology Rescue Robot Development Team, Japan"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Kotaro Kanazawa"

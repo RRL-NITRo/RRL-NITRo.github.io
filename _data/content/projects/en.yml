@@ -18,7 +18,7 @@ page_data:
     - title: "WRS"
       type: id_picture
       color: "#62b462"
-    - title: "Blog"
+    - title: "Publications"
       type: id_quote
       color: "#2FD0ED"
 
