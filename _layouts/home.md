@@ -61,7 +61,7 @@ layout: default
 </div>
 
 <div class="multipurpose-container media-embed-container">
-  <h2>YouTube Channel</h2>
+  <h2>Please Subscribe Our YouTube Channel!!</h2>
 
   <!-- ✅ YouTube埋め込み -->
   <div class="video-container">
@@ -73,7 +73,7 @@ layout: default
     </iframe>
   </div>
 
-  <h2>X</h2>
+  <h2>Latest Post on X!!</h2>
   <!-- ✅ Twitter埋め込み -->
   <a class="twitter-timeline" 
     href="https://twitter.com/NITRo85594165?ref_src=twsrc%5Etfw">
