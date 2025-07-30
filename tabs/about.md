@@ -36,9 +36,23 @@ img: ":about.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+## About Me
+
+ここにあなたの自己紹介や会社・組織の紹介を書きます。
+
+### 経歴
+- 項目1
+- 項目2
+
+### スキル
+- スキル1
+- スキル2
+
+お気軽にお問い合わせください。
+
+<!-- {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
 
-{{ website_info_text_second }}
+{{ website_info_text_second }} -->
