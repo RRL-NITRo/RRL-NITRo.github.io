@@ -36,9 +36,8 @@ date: 2022-02-10 08:11:06 +0900
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-#published: false
+published: false
 ---
-
 <!-- outline-start -->
 
 This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
@@ -46,6 +45,7 @@ This is an example page to display markdown related styles for Mr. Green Jekyll 
 <!-- outline-end -->
 
 ### Headings (centered)
+
 {:data-align="center"}
 
 # Heading 1
@@ -60,7 +60,7 @@ This is an example page to display markdown related styles for Mr. Green Jekyll 
 
 ###### Heading 6
 
-***
+---
 
 ### Paragraphs
 
@@ -89,7 +89,7 @@ Bold text **Hello world**
 
 Italic text _Hello world_
 
-kbd text <kbd>Hello world</kbd>
+kbd text `<kbd>`Hello world`</kbd>`
 
 #### Blockquote
 
@@ -132,36 +132,36 @@ This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-Jek
    1. Apples
       - Granny Smith
       - Mutsu
-   1. Bananas
+   2. Bananas
       - Cavendish
       - Red
-1. Vegetables
+2. Vegetables
 
-***
+---
 
 ### Tables
 
 #### Small Table (centered)
 
-| Fruits(not aligned) | Alignment (centered) | num (right align) |
-| ------------------- | :------------------: | ----------------: |
-| Apple               |       centered       |              9999 |
-| Banana              |  centered long text  |               999 |
-| Orange              |       centered       |                99 |
-| Lemon               |       centered       |                 9 |
-{:data-align="center"}
+| Fruits(not aligned)    | Alignment (centered) | num (right align) |
+| ---------------------- | :------------------: | ----------------: |
+| Apple                  |       centered       |              9999 |
+| Banana                 |  centered long text  |               999 |
+| Orange                 |       centered       |                99 |
+| Lemon                  |       centered       |                 9 |
+| {:data-align="center"} |                      |                   |
 
 #### Wide Table (centered)
 
 scroll enabled when page is narrow
 
-| Fruits | num (left align) | num (right align) | num  | num  | num  |
-| ------ | :--------------- | ----------------: | ---- | ---- | ---- |
-| Apple  | 1111             |              1111 | 2222 | 3333 | 4444 |
-| Banana | 111              |               111 | 222  | 333  | 444  |
-| Orange | 11               |                11 | 22   | 33   | 44   |
-| Lemon  | 1                |                 1 | 2    | 3    | 4    |
-{:data-align="center"}
+| Fruits                 | num (left align) | num (right align) | num  | num  | num  |
+| ---------------------- | :--------------- | ----------------: | ---- | ---- | ---- |
+| Apple                  | 1111             |              1111 | 2222 | 3333 | 4444 |
+| Banana                 | 111              |               111 | 222  | 333  | 444  |
+| Orange                 | 11               |                11 | 22   | 33   | 44   |
+| Lemon                  | 1                |                 1 | 2    | 3    | 4    |
+| {:data-align="center"} |                  |                   |      |      |      |
 
 #### Wider Table
 
