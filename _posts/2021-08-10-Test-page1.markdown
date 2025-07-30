@@ -16,7 +16,7 @@ img: ":post_pic1.jpg"
 comments_disable: true
 
 # publish date
-date: 2021-08-10 11:32:53 +0900
+date: 2025-07-30 14:25:53 +0900
 
 # seo
 # if not specified, date will be used.
@@ -36,11 +36,11 @@ date: 2021-08-10 11:32:53 +0900
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+#published: false
 ---
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
-
+NITRo のHPを作成を開始しました．現在開発中のため，コンテンツは正確ではありません．
 {%- include util/auto-content-generator.liquid -%}
 
 <!-- outline-start -->
