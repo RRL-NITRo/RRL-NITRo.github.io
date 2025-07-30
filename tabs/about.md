@@ -56,21 +56,18 @@ The team is currently developing a crawler-type robot named IMAX2, and participa
 
 - **KAMUY**: Legged Robot
 
+## OnGoing Projects
+- **WRS 2025** : Participating in the World Robot Summit 2025 with IMAX2, focusing on advanced rescue operations.
+
 ## Team Members
-- **Kotaro Kanazawa**  
+{% include custom/about-members.html %}
+
+<!-- - **Kotaro Kanazawa**  
     ![kotarokanazawa](/assets/img/about/member/kotaro.jpg)  
     *Team Leader and Developer*
 
     **Interests:** Motion Planning for Crawler Robots, Autonomous Navigation, Teleoperation, Virtual Reality, Localization, and Mapping.
 
     - [Twitter @clp13214](https://x.com/clp13214)
-    - [GitHub kotarokanazawa](https://github.com/kotarokanazawa)
+    - [GitHub kotarokanazawa](https://github.com/kotarokanazawa) -->
 
-## OnGoing Projects
-- **WRS 2025** : Participating in the World Robot Summit 2025 with IMAX2, focusing on advanced rescue operations.
-<!-- {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
-
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
-
-{{ website_info_text_second }} -->
