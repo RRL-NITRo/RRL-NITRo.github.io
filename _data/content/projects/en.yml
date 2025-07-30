@@ -30,7 +30,7 @@ page_data:
       # img_title: "RoboCup 2024"
       date: "2024-07-01"
       post: |
-        # RoboCup 2024
+     
         RoboCup 2024 is held in Einthoven, Netherlands. Team NITRo is participating in the RoboCup Rescue Robot League with our robot IMAX2.
     
     - type: robocup
@@ -40,7 +40,7 @@ page_data:
       img_title: "IMAX2 at RoboCup Japan Open 2025"
       date: "2023-05-05"
       post: |
-        # RoboCup 2025 Japan Open
+       
         ロボカップジャパンオープン2025が2025年5月3日から5日にかけて開催され，名工大の研究室チームであるNITRoがレスキュー実機リーグにて準優勝を獲得しました．
        
     - type: robocup
@@ -50,8 +50,9 @@ page_data:
       img_title: "RoboCup 2025"
       date: "2025-07-01"
       post: |
-        # RoboCup 2025  
+      
         RoboCup 2025 is held in Salvador, Brazil. Team NITRo is participating in the RoboCup Rescue Robot League with our robot IMAX2.
+        
         RoboCup 2025がブラジル，サルバドールで開催され，名工大の研究室チームであるNITRoがRescue Robot Leagueにて，3rd placeを獲得しました．
         チーム発足以来，初の国際大会での表彰となりました．
   # - type: id_example
