@@ -45,7 +45,7 @@ Team Leader and Developer
 
 Interest: Motion Planning for Crawler Robot, Autonomous Navigation, Teleoperation, Virtual Reality, and Localization and Mapping.
 
-- Twitter: [@sato_taro](https://twitter.com/sato_taro)
-- GitHub: [sato-taro](https://github.com/sato-taro)
+- Twitter: [@clp13214](https://x.com/clp13214)
+- GitHub: [kotarokanazawa](https://github.com/kotarokanazawa)
 
 
