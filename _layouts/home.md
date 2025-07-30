@@ -37,7 +37,7 @@ layout: default
 
   <div class="home-intro-text markdown-style">
     <h4>
-      Team NITRo is a rescue robot development team operated by students from the Sato Laboratory at Nagoya Institute of Technology.
+      Team NITRo is a student-run rescue robot development team based in the Sato Laboratory at Nagoya Institute of Technology.
     </h4>
 
     <p>
