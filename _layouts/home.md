@@ -60,19 +60,25 @@ layout: default
   </ul>
 </div>
 
-<div class="multipurpose-container latest-x-posts-container">
-  <h2>最新の{{ site.data.conf.others.home.latest_x_posts_count_limit }}件の投稿</h2>
-  <ul class="latest-x-posts">
-    {%- for _post in lng_pages limit: site.data.conf.others.home.latest_x_posts_count_limit -%}
-      <li>
-        {%- assign page_title = _post.title -%}
-        {%- include util/auto-content-post-title-rename.liquid title = page_title -%}
-        {%- include multi_lng/get-localized-long-date-format.liquid date = _post.date -%}
-        <a href="{{ site.baseurl }}{{ _post.url }}">{{ page_title }}
-          <span>{{ _post.date | date: out_date_format }}</span>
-        </a>
-      </li>
-    {% endfor -%}
-  </ul>
+<div class="multipurpose-container media-embed-container">
+  <h2>メディア</h2>
+
+  <!-- ✅ YouTube埋め込み -->
+  <div class="video-container">
+    <iframe width="560" height="315"
+      src="https://youtu.be/HeNR9uJ7k3c?si=9tM4-p9p9t_Wmrf2"
+      title="YouTube video player" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <!-- ✅ Twitter埋め込み -->
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/NITRo85594165/status/20"></a>
+  </blockquote>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+
+
 {% endif -%}
