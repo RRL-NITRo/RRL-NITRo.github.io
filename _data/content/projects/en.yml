@@ -36,7 +36,7 @@ page_data:
     - type: robocup
       project_name: "RoboCup Japan Open 2025"
       project_excerpt: "RoboCup Japan Open 2025で準優勝しました."
-      img: ":../default/imax2jo2025.jpeg"
+      img: ":/../default/imax2jo2025.jpeg"
       img_title: "IMAX2 at RoboCup Japan Open 2025"
       date: "2023-05-05"
       post: |
@@ -45,8 +45,8 @@ page_data:
        
     - type: robocup
       project_name: "RoboCup 2025 at Salvador, Brazil"
-      project_excerpt: "RoboCup 2025 Competition"
-      img: ":../default/imax2rrl2025.jpeg"
+      project_excerpt: "RoboCup 2025 で3rd placeを獲得しました．"
+      img: ":/../default/imax2rrl2025.jpeg"
       img_title: "RoboCup 2025"
       date: "2025-07-01"
       post: |
