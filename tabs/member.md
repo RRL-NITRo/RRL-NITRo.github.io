@@ -35,7 +35,7 @@ lng_pair: id_member
 
 # メンバー紹介
 
-Member
+
 
 ---
 
