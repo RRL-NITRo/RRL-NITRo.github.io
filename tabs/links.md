@@ -49,10 +49,13 @@ page_data:
     - title: "Team Social Accounts"
       type: id_sns
       color: "#62b462"
+    - title: "Members"
+      type: id_member
+      color: "#62b462"
     - title: "Open Source"
       type: id_opensource
       color: "#F4A273"
-      
+
     # - title: "Programming"
     #   type: id_programming
     #   color: "#62b462"
@@ -72,6 +75,8 @@ page_data:
     #   title: "Stack OverFlow"
     #   url: "https://stackoverflow.com/"
     #   info: "Stack Overflow is a question and answer website for professional and enthusiastic programmers."
+
+
 
     # # jekyiiliquid
     # - type: id_jekyiiliquid
