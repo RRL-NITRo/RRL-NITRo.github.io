@@ -57,7 +57,7 @@ git clone git@github.com:RRL-NITRo/RRL-NITRo.github.io.git
 
 ## Blogの投稿方法
 
-メンバーの皆さんが開発日誌を投稿する際の手順を説明します．
+開発日誌を投稿する際の手順を説明します．
 
 1. `_posts` フォルダに新しいファイルを作成します．
    - ファイル名は `YYYY-MM-DD-タイトル.markdown` の形式で作成してください．
@@ -97,10 +97,12 @@ image_viewer_on: true
 3. タイトル、投稿者名、カテゴリ、タグ、サムネイル画像を適宜変更してください。
 4. 投稿内容を記述します。---以下に，Markdown形式で書くことができます。Markdownの書き方は[こちら](https://www.markdownguide.org/basic-syntax/)を参照してください。
 5. ファイルを保存し、GitHubにプッシュします。
-6. プッシュ後、GitHub Actionsが自動的にサイトをビルドし、更新された内容が反映されます。
+6. プッシュ後、GitHub Actionsが自動的にサイトをビルドし、更新された内容が反映されます．
 
-##　Projectsの投稿方法
+
+## Projectsの投稿方法
 1. `_data/content/projects/en.yml` ファイルを開き，変更を加える．Categoryを使うことで，分類を行う．
+
 ## Aboutの編集方法
 
 1. `_tabs/about.md` ファイルを開きます。
@@ -113,6 +115,22 @@ image_viewer_on: true
 ## タブページの追加
 
 まだわからない．
+
+## メンバーの追加
+1. `_includes/custom/about-members.html` ファイルを開きます。
+2. `<div class="col-md-3 about-img">` の中に新しいメンバーの情報を追加します。
+   - 例:
+```text
+<div class="col-md-3 about-img">
+  <img src="/assets/img/about/member/new_member.jpg" alt="New Member" class="img-fluid">
+  <h3>New Member</h3>
+  <p>Role: Developer</p>
+  <p>Bio: Brief description about the new member.</p>
+</div>  
+```
+3. 画像ファイルは `/assets/img/about/member/` フォルダに保存してください。
+4. 変更を保存し、GitHubにプッシュします。
+
 <!-- {%- include util/auto-content-generator.liquid -%} -->
 
 <!-- outline-start -->
