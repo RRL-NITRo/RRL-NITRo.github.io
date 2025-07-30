@@ -59,4 +59,20 @@ layout: default
     </li>
   </ul>
 </div>
+
+<div class="multipurpose-container latest-x-posts-container">
+  <h2>最新の{{ site.data.conf.others.home.latest_x_posts_count_limit }}件の投稿</h2>
+  <ul class="latest-x-posts">
+    {%- for _post in lng_pages limit: site.data.conf.others.home.latest_x_posts_count_limit -%}
+      <li>
+        {%- assign page_title = _post.title -%}
+        {%- include util/auto-content-post-title-rename.liquid title = page_title -%}
+        {%- include multi_lng/get-localized-long-date-format.liquid date = _post.date -%}
+        <a href="{{ site.baseurl }}{{ _post.url }}">{{ page_title }}
+          <span>{{ _post.date | date: out_date_format }}</span>
+        </a>
+      </li>
+    {% endfor -%}
+  </ul>
+</div>
 {% endif -%}
