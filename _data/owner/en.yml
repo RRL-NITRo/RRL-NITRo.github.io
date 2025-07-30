@@ -42,8 +42,7 @@ creative_commons:
 # seo meta this is needed for each language
 # If meta_description is not defined in front matter, it's created from (post / page) content,
 # if it has no content, this will be used for page description. It is also used in manifest.json
-meta_common_description: "Team NITRo is a rescue robot development team operated by students from the Sato Laboratory at Nagoya Institute of Technology.
-The team is currently developing a crawler-type robot named IMAX2, and participates in competitions such as RoboCup and the World Robot Summit."
+meta_common_description: "meta_common_description"
 
 # contact options (side nav bottom and about page)
 # the order of the items will be shown as here.

@@ -34,9 +34,9 @@ layout: default
       {% endif -%}
     </div>
   </div>
-  <div class="home-intro-text markdown-style">
+  <!-- <div class="home-intro-text markdown-style">
     {{ content }}
-  </div>
+  </div> -->
 </div>
 
 {%- if lng_pages.size > 0 and site.data.conf.others.home.new_posts %}
