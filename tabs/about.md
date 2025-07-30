@@ -36,7 +36,7 @@ img: ":about.jpg"
 #published: false
 ---
 
-## About Me
+## About Us
 
 ここにあなたの自己紹介や会社・組織の紹介を書きます。
 
