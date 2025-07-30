@@ -34,20 +34,27 @@ layout: default
       {% endif -%}
     </div>
   </div>
+
   <div class="home-intro-text markdown-style">
     <h4>
-Team NITRo is a rescue robot development team operated by students from the Sato Laboratory at Nagoya Institute of Technology.
-
-The team is currently developing a crawler-type robot named IMAX2, and participates in competitions such as RoboCup and the World Robot Summit.
-
-## Main Objectives
-- Navigating rough terrain, manipulator-based operations, remote control, mapping, autonomous navigation, as well as image recognition and image processing are the main objectives.
-- The team is advancing both hardware fabrication from CAD design and software development using ROS (C++/Python).
-
-## Achievements
-- **RoboCup Japan Open 2025**: 2nd Place
-- **RoboCup 2025**: 3rd Place
+      Team NITRo is a rescue robot development team operated by students from the Sato Laboratory at Nagoya Institute of Technology.
     </h4>
+
+    <p>
+      The team is currently developing a crawler-type robot named IMAX2, and participates in competitions such as RoboCup and the World Robot Summit.
+    </p>
+
+    <h5>Main Objectives</h5>
+    <ul>
+      <li>Navigating rough terrain, manipulator-based operations, remote control, mapping, autonomous navigation, as well as image recognition and image processing are the main objectives.</li>
+      <li>The team is advancing both hardware fabrication from CAD design and software development using ROS (C++/Python).</li>
+    </ul>
+
+    <h5>Achievements</h5>
+    <ul>
+      <li><strong>RoboCup Japan Open 2025</strong>: 2nd Place</li>
+      <li><strong>RoboCup 2025</strong>: 3rd Place</li>
+    </ul>
   </div>
 </div>
 
@@ -93,7 +100,7 @@ The team is currently developing a crawler-type robot named IMAX2, and participa
     href="https://twitter.com/NITRo85594165?ref_src=twsrc%5Etfw">
     Tweets by NITRo85594165
   </a>
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <a class="twitter-timeline" href="https://twitter.com/NITRo85594165?ref_src=twsrc%5Etfw">Tweets by NITRo85594165</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 
