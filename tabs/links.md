@@ -46,12 +46,13 @@ page_data:
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "Social Accounts"
+    - title: "Team Social Accounts"
       type: id_sns
       color: "#62b462"
     - title: "Open Source"
       type: id_opensource
       color: "#F4A273"
+      
     # - title: "Programming"
     #   type: id_programming
     #   color: "#62b462"
