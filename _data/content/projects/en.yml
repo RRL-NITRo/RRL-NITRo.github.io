@@ -31,8 +31,8 @@ page_data:
       date: "2024-07-01"
       post: |
         # RoboCup 2024
-
         RoboCup 2024 is held in Einthoven, Netherlands. Team NITRo is participating in the RoboCup Rescue Robot League with our robot IMAX2.
+    
     - type: robocup
       project_name: "RoboCup Japan Open 2025"
       project_excerpt: "RoboCup Japan Open 2025で準優勝しました．
