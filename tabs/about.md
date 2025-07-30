@@ -43,18 +43,20 @@ img: ":../default/PXL_20240826_104146904.webp"
 
 他チームの皆さんとの，情報共有や共同での開発に大変興味があります．
 具体的には，
-- ROS/ROS2での共通のライブラリやツールの使用
-- 共通のセンサ，オープンソースを使用したSLAMの精度向上，RoboCupの新ルール対応のためのプログラム開発(点群への色付け，熱源マッピング)
-- **HAZMAT/物体検出/Auto DexterityのベースとなるYOLO学習データの共同開発**
+- 共通のセンサ，オープンソースパッケージを使用したSLAMの精度向上，RoboCupの新ルール対応のためのプログラム開発(点群への色付け，熱源マッピング)
+- HAZMAT/物体検出/Auto DexterityのベースとなるYOLO学習データの共同開発
+- 通信帯域が制限される環境下での遠隔操作　VSting対策
+
 を考えています！Xで連絡ください．
 
 スポンサーシップやコラボレーションのご提案もお待ちしております．
-興味のある方は，メールもしくはSNSからご連絡ください．
+興味のある方は，Xもしくはメールからご連絡ください．
 
 ## Robot Gallery
 
 - **IMAX2**: A crawler-type rescue robot designed for navigating complex environments and performing rescue operations.
-- **IMAX**: A large size crawler-type rescue robot, which was the predecessor of IMAX2 and participated in the RoboCup 2024 competition.
+- **IMAX**: A large size crawler-type rescue robot, which was the predecessor of IMAX2 and participated in the WRS 2020 competition.
+- **HITRO**: A small size crawler robot
 - **KAMUY**: Legged Robot
 
 ## OnGoing Projects
