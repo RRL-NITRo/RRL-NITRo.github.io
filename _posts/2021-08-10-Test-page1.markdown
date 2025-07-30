@@ -27,7 +27,7 @@ date: 2025-07-30 14:25:53 +0900
 # optional
 # please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
 # image viewer can be enabled or disabled for all posts using the "image_viewer_posts: true" setting in _data/conf/main.yml.
-#image_viewer_on: true
+image_viewer_on: true
 # please use the "image_lazy_loader_on" below to enable image lazy loader for individual pages or posts (_posts/ or [language]/_posts folders).
 # image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
 #image_lazy_loader_on: true
@@ -41,7 +41,7 @@ date: 2025-07-30 14:25:53 +0900
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 NITRo のHPを作成を開始しました．現在開発中のため，コンテンツは正確ではありません．
-{%- include util/auto-content-generator.liquid -%}
+<!-- {%- include util/auto-content-generator.liquid -%} -->
 
 <!-- outline-start -->
 
