@@ -10,7 +10,7 @@
 
 - twitter:
   icon: "fa fa-twitter-square"
-  url: "https://twitter.com/intent/tweet?url={url}&text={title}"
+  url: "https://x.com/intent/tweet?url={url}&text={title}"
 - facebook:
   icon: "fa fa-facebook-square"
   url: "https://www.facebook.com/sharer/sharer.php?u={url}"

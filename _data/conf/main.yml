@@ -59,7 +59,8 @@ greetings_replace: "$site_greetings"
 welcome_replace: "$site_welcome"
 
 # replace text with data.lang[language].constants.sample
-sample_replace: "$site_sample"
+sample_replace: "Team NITRo is a rescue robot development team operated by students from the Sato Laboratory at Nagoya Institute of Technology.
+The team is currently developing a crawler-type robot named IMAX2, and participates in competitions such as RoboCup and the World Robot Summit."
 
 ###########################################################
 #                Search
@@ -197,6 +198,8 @@ side_and_top_nav_buttons:
     icon: "fa fa-link"
   - about:
     icon: "fa fa-user-o"
+  - members:
+    icon: "fa fa-users"
 
 
 # side nav toggle feature
