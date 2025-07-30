@@ -35,21 +35,29 @@ img: ":about.jpg"
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-
 ## About Us
 
-ここにあなたの自己紹介や会社・組織の紹介を書きます。
 
-### 経歴
-- 項目1
-- 項目2
+Team NITRo is a rescue robot development team operated by students from the Sato Laboratory at Nagoya Institute of Technology.
 
-### スキル
-- スキル1
-- スキル2
+The team is currently developing a crawler-type robot named IMAX2, and participates in competitions such as RoboCup and the World Robot Summit.
 
-お気軽にお問い合わせください。
+## Main Objectives
+- Navigating rough terrain, manipulator-based operations, remote control, mapping, autonomous navigation, as well as image recognition and image processing are the main objectives.
+- The team is advancing both hardware fabrication from CAD design and software development using ROS (C++/Python).
 
+## Achievements
+- **RoboCup 2024**: Participated in the RoboCup Rescue Robot League with IMAX2, achieving a commendable performance.
+- **RoboCup 2025**: Scheduled to participate in the RoboCup Rescue Robot
+
+## Robots
+- **IMAX2**: A crawler-type rescue robot designed for navigating complex environments and performing rescue operations.
+- **IMAX**: A large size crawler-type rescue robot, which was the predecessor of IMAX2 and participated in the RoboCup 2024 competition.
+
+- **KAMUY**: Legged Robot
+
+## OnGoing Projects
+- **WRS 2025**
 <!-- {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 {%- include util/auto-content-generator.liquid -%}
