@@ -44,11 +44,12 @@ layout: default
       The team is currently developing a crawler-type robot named IMAX2, and participates in competitions such as RoboCup and the World Robot Summit.
     </p>
 
-    <h5>Main Objectives</h5>
-    <ul>
-      <li>Navigating rough terrain, manipulator-based operations, remote control, mapping, autonomous navigation, as well as image recognition and image processing are the main objectives.</li>
-      <li>The team is advancing both hardware fabrication from CAD design and software development using ROS (C++/Python).</li>
-    </ul>
+  <h5>Main Objectives</h5>
+  <ul>
+    <li>Development of UGVs (Unmanned Ground Vehicles) capable of operating in disaster environments, including vehicle design and selection of actuators and sensors.</li>
+    <li>Development and operation of various core technologies based on ROS, such as navigating rough terrain, manipulator-based operations, remote control, mapping, autonomous navigation, image recognition, and image processing.</li>
+    <li>Practical application of research results, including user interface design utilizing advanced virtual reality technologies.</li>
+  </ul>
 
     <h5>Achievements</h5>
     <ul>
