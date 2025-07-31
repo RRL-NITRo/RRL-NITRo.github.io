@@ -5,7 +5,7 @@
 page_data:
   main:
     header: "Projects"
-    info: "これまでに出場した大会とイベント(現在調整中)"
+    info: "出場した競技会，イベント，研究成果"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
@@ -15,6 +15,9 @@ page_data:
     - title: "RoboCup"
       type: robocup
       color: "gray"
+    - title: "Events"
+      type: event
+      color: "#62b462"
     - title: "WRS"
       type: id_picture
       color: "#62b462"
@@ -23,26 +26,9 @@ page_data:
       color: "#2FD0ED"
 
   list:
-    - type: robocup
-      project_name: "RoboCup 2024"
-      project_excerpt: "RoboCup 2024 Competition"
-      # img: ":project1_thumb.jpg"
-      # img_title: "RoboCup 2024"
-      date: "2024-07-01"
-      post: |
-     
-        RoboCup 2024 is held in Einthoven, Netherlands. Team NITRo is participating in the RoboCup Rescue Robot League with our robot IMAX2.
-    
-    - type: robocup
-      project_name: "RoboCup Japan Open 2025"
-      project_excerpt: "RoboCup Japan Open 2025で準優勝しました."
-      img: ":../default/imax2jo2025.jpeg"
-      img_title: "IMAX2 at RoboCup Japan Open 2025"
-      date: "2023-05-05"
-      post: |
-       
-        ロボカップジャパンオープン2025が2025年5月3日から5日にかけて開催され，名工大の研究室チームであるNITRoがレスキュー実機リーグにて準優勝を獲得しました．
-       
+
+
+
     - type: robocup
       project_name: "RoboCup 2025 at Salvador, Brazil"
       project_excerpt: "RoboCup 2025 で3rd placeを獲得しました．"
@@ -55,6 +41,49 @@ page_data:
         
         RoboCup 2025がブラジル，サルバドールで開催され，名工大の研究室チームであるNITRoがRescue Robot Leagueにて，3rd placeを獲得しました．
         チーム発足以来，初の国際大会での表彰となりました．
+
+        ![picture](:rrl2025.jpeg)
+        
+  
+    - type: robocup
+      project_name: "RoboCup Japan Open 2025"
+      project_excerpt: "RoboCup Japan Open 2025で準優勝しました."
+      img: ":../default/imax2jo2025.jpeg"
+      img_title: "IMAX2 at RoboCup Japan Open 2025"
+      date: "2023-05-05"
+      post: |
+      
+        ロボカップジャパンオープン2025が2025年5月3日から5日にかけて開催され，
+        名工大の研究室チームであるNITRoがレスキュー実機リーグにて準優勝を獲得しました．
+        
+        ![picture](:jo2025.jpeg)
+
+    - type: event
+      project_name: "IEEE R10 Robot Competition"
+      project_excerpt: "IEEE R10 Robot CompetitionのFINAL（アジア大会）で全体2位"
+      img: ":../default/imaxieee.webp"
+      img_title: "IEEECompe2024_NITRo"
+      date: "2024-09-01"
+      post: |
+
+          明治大学、オリンピックセンターで開催されたIEEE R10 Robot CompetitionのFINAL（アジア大会）で全体2位を受賞しました。
+          金澤と松尾で、英語でのプレゼン、ポスター発表、デモンストレーションを行いました。
+          
+          ![picture](:ieeecompe.jpeg)
+
+    - type: robocup
+      project_name: "RoboCup 2024 at Eindhoven, Netherlands"
+      project_excerpt: "RoboCup 2024 Competitionに出場(準決勝８位)"
+      # img: ":project1_thumb.jpg"
+      # img_title: "RoboCup 2024"
+      date: "2024-07-01"
+      post: |
+
+        RoboCup 2024 is held in Einthoven, Netherlands. Team NITRo is participating in the RoboCup Rescue Robot League with our robot IMAX2.
+
+        RoboCup 2024がオランダ，アイントホーフェンで開催され，名工大の研究室チームであるNITRoがRescue Robot Leagueにて出場しました．
+        準決勝に進出し，８位で終了しました．
+       
   # - type: id_example
   #   project_name: "Example Project"
   #   project_excerpt: "Examples"
