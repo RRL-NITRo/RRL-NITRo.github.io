@@ -65,7 +65,7 @@ page_data:
 
     - type: event
       project_name: "IEEE R10 Robot Competition 2024"
-      project_excerpt: "IEEE R10 Robot CompetitionのFINAL（アジア大会）で全体2位"
+      project_excerpt: "IEEE R10 Robot CompetitionのFINAL（アジア大会）で2位"
       img: ":../default/imaxieee.webp"
       img_title: "IEEECompe2024_NITRo"
       date: "2024-09-01"
