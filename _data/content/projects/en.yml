@@ -8,7 +8,7 @@ page_data:
     info: "出場した競技会，イベント，研究成果"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":krail2.png"
+    img: ":project.png"
     back_color: "lightblue"
 
   category:
