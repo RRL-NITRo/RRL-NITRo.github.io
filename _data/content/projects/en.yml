@@ -108,13 +108,14 @@ page_data:
       img_title: "hitro RoboCup 2023"
       date: "2023-07-10"
       post: | 
+        小型クローラロボットHITROで出場するも，予選敗退．
 
       
     - type: wrs
       project_name: "WRS過酷環境F-REIチャレンジプレ大会(2024)"
       project_excerpt: "NITRo-UIがシミュレーション部門で1位"
-      img: "::wrspre2024.png"
-      img_title: "IMAX2 RoboCup 2024"
+      img: ":wrspre2024.png"
+      img_title: "wrspre2024"
       date: "2024-10-05"
       post: |
         プラント部門(NITRo)，シミュレーション(NITRo-UI:1位)，ドローン(NITRo-Drone)の3部門に出場.
@@ -122,8 +123,8 @@ page_data:
     - type: wrs
       project_name: "WRSプラント競技トライアル(2024)"
       project_excerpt: "IMAXが模擬プラントで実走"
-      img: "::wrs試走会.png"
-      img_title: "IMAX2 RoboCup 2024"
+      img: ":wrs試走会.png"
+      img_title: "wrs試走会"
       date: "2024-3-12"
       post: |
         凍てつく寒風が吹き荒れる極限の中、IMAXは遠隔の指先に応え、模擬プラントを確かに走り抜けました。
