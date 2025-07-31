@@ -71,12 +71,12 @@ page_data:
       date: "2024-09-01"
       post: |
 
-      8月30日に明治大学中野キャンパスで行われたIEEE R10 Robotics Competition Stage 3に金澤と松尾で出場し、2nd Prizeを受賞しました。  
-      [IEEE R10 Robotics Competition](https://robocomp.ieeer10.org/)は、IEEE R10(アジア太平洋地域)における学生のロボットプロジェクトの革新性や有用性を競う国際大会です。
-      Stage 3は大会の最終ラウンドであり、Stage 1における各地域の選考、Stage 2でのオンライン審査によって、選出された10チームが出場しました。
-      大会当日は、審査員の前での口頭発表、質疑応答に加え、ポスターセッションで実演を行いました。
-      NITRoは、研究室内で開発したレスキューロボット「IMAX」の不整地走行、ロボットアームでの作業、VRを用いた遠隔操作の実演を行い、大会で全体の2位である2nd Prizeを受賞しました。
-      ![picture](:ieeecompe.webp)    
+        8月30日に明治大学中野キャンパスで行われたIEEE R10 Robotics Competition Stage 3に金澤と松尾で出場し、2nd Prizeを受賞しました。  
+        [IEEE R10 Robotics Competition](https://robocomp.ieeer10.org/)は、IEEE R10(アジア太平洋地域)における学生のロボットプロジェクトの革新性や有用性を競う国際大会です。
+        Stage 3は大会の最終ラウンドであり、Stage 1における各地域の選考、Stage 2でのオンライン審査によって、選出された10チームが出場しました。
+        大会当日は、審査員の前での口頭発表、質疑応答に加え、ポスターセッションで実演を行いました。
+        NITRoは、研究室内で開発したレスキューロボット「IMAX」の不整地走行、ロボットアームでの作業、VRを用いた遠隔操作の実演を行い、大会で全体の2位である2nd Prizeを受賞しました。
+        ![picture](:ieeecompe.webp)    
 
 
     - type: robocup
