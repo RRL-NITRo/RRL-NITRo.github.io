@@ -119,7 +119,8 @@ image_viewer_on: true
 ## メンバーの追加
 1. `_includes/custom/about-members.html` ファイルを開きます。
 2. `<div class="col-md-3 about-img">` の中に新しいメンバーの情報を追加します。
-   - 例:
+
+例:
 ```text
 <div class="col-md-3 about-img">
   <img src="/assets/img/about/member/new_member.jpg" alt="New Member" class="img-fluid">
@@ -128,6 +129,7 @@ image_viewer_on: true
   <p>Bio: Brief description about the new member.</p>
 </div>  
 ```
+
 3. 画像ファイルは `/assets/img/about/member/` フォルダに保存してください。
 4. 変更を保存し、GitHubにプッシュします。
 
