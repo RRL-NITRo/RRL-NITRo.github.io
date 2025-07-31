@@ -19,7 +19,7 @@ page_data:
       type: event
       color: "#62b462"
     - title: "WRS"
-      type: id_picture
+      type: wrs
       color: "#62b462"
     - title: "Publications"
       type: id_quote
@@ -83,8 +83,8 @@ page_data:
     - type: robocup
       project_name: "RoboCup 2024 at Eindhoven, Netherlands"
       project_excerpt: "RoboCup 2024 Competitionに出場(準決勝８位)"
-      # img: ":project1_thumb.jpg"
-      # img_title: "RoboCup 2024"
+      img: ":imax_mesurement.jpg"
+      img_title: "IMAX2 RoboCup 2024"
       date: "2024-07-01"
       post: |
 
@@ -93,10 +93,41 @@ page_data:
         RoboCup 2024がオランダ，アイントホーフェンで開催され，名工大の研究室チームであるNITRoがRescue Robot Leagueに出場しました．
         準決勝に進出し，８位で終了しました．
 
+        ![picture](:rrl2024.png)
+
         動画はこちら
         - [記録映像(無編集，すいません)](https://www.youtube.com/watch?v=YdBT7-Bu4MU&list=PLPg8jCNunns8X0Up9hB7SM_M6lJdS1jdX&pp=gAQB)
         - [VRでの遠隔操作](https://youtu.be/cfYUWaEWrZQ?si=G4FmBEJgCTFXQS2V)
         - [TDP](https://www.youtube.com/watch?v=KERuUd2tSs8&list=PLPg8jCNunns9mflpkx35wuv0ys9iN3ier&pp=gAQB)
+
+  
+    - type: robocup
+      project_name: "RoboCup 2023 at Bordeaux, France"
+      project_excerpt: "RoboCup 2023 Competitionに出場(予選敗退)"
+      img: ":hitro_2023.png"
+      img_title: "hitro RoboCup 2023"
+      date: "2023-07-10"
+      post: | 
+
+      
+    - type: wrs
+      project_name: "WRS過酷環境F-REIチャレンジプレ大会(2024)"
+      project_excerpt: "NITRo-UIがシミュレーション部門で1位"
+      img: "::wrspre2024.png"
+      img_title: "IMAX2 RoboCup 2024"
+      date: "2024-10-05"
+      post: |
+        プラント部門(NITRo)，シミュレーション(NITRo-UI:1位)，ドローン(NITRo-Drone)の3部門に出場.
+
+    - type: wrs
+      project_name: "WRSプラント競技トライアル(2024)"
+      project_excerpt: "IMAXが模擬プラントで実走"
+      img: "::wrs試走会.png"
+      img_title: "IMAX2 RoboCup 2024"
+      date: "2024-3-12"
+      post: |
+        凍てつく寒風が吹き荒れる極限の中、IMAXは遠隔の指先に応え、模擬プラントを確かに走り抜けました。
+        
        
   # - type: id_example
   #   project_name: "Example Project"
