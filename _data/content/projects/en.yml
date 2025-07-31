@@ -27,8 +27,6 @@ page_data:
 
   list:
 
-
-
     - type: robocup
       project_name: "RoboCup 2025 at Salvador, Brazil"
       project_excerpt: "RoboCup 2025 で3rd placeを獲得!"
