@@ -8,22 +8,23 @@ page_data:
     info: "出場した競技会，イベント，研究成果"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":project.png"
+    img: ":project_.png"
     back_color: "lightblue"
 
   category:
     - title: "RoboCup"
       type: robocup
       color: "gray"
-    - title: "Events"
-      type: event
-      color: "#62b462"
     - title: "WRS"
       type: wrs
       color: "#62b462"
-    - title: "Publications"
-      type: id_quote
+    - title: "Events"
+      type: event
       color: "#2FD0ED"
+
+    # - title: "Publications"
+    #   type: id_quote
+    #   color: "#2FD0ED"
 
   list:
 
