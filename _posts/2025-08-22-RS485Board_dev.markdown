@@ -30,3 +30,6 @@ image_viewer_on: true
 Dynamixelはロボット開発の強い味方で、高性能のサーボモータをデイジーチェーン接続のRS485通信で駆動することができます。
 NITRoではロボットアームにDynamixelを多く使用していますが、アーム先端にLEDや小型センサを取り付ける際、ロボットのメインコンピュータとセンサ間に配線を行う必要があり大変です。
 そこでDynamixelの通信規格と互換性をもたせた通信用基板を作成し、各種センサを取り付けることでDynamixel用の電源線と通信線を活用してLEDの点灯やセンサのデータ読み取りを行うことができます。
+
+![image_front](/assets/2025-08-22-RS485Board_dev/1.png)
+![image_back](/assets/2025-08-22-RS485Board_dev/2.png)
