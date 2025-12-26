@@ -93,12 +93,11 @@ layout: default
     </iframe>
   </div>
 </div>
-
-<div class="multipurpose-container media-embed-container">
+ <!-- ✅ Twitter埋め込み -->
+<!-- <div class="multipurpose-container media-embed-container">
   <h2>Latest Post on X!!</h2>
-  <!-- ✅ Twitter埋め込み -->
 <blockquote class="twitter-tweet" data-width="480" data-dnt="true"><p lang="ja" dir="ltr">RoboCup2025 Rescue Robot Leagueにて3rd Placeを獲得しました！ <a href="https://t.co/g0FmZt1QEm">pic.twitter.com/g0FmZt1QEm</a></p>&mdash; NITRo - Rescue Robot (@NITRo85594165) <a href="https://twitter.com/NITRo85594165/status/1948140425627439496?ref_src=twsrc%5Etfw">July 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+</div> -->
 
 
 {% endif -%}
